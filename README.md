@@ -2,7 +2,7 @@
 Design 3D KUET Word in OpenGL C++
 
 Graphics Operation
-- Rotation
+- Rotation: X, Y, Z 
 - Scaling
 - Translation
 - Zoom in and out
